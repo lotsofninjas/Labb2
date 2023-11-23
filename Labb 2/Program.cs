@@ -110,7 +110,7 @@ while (menuLoop)
             break;
 
         case 5:
-            Console.WriteLine("Tack för mig!");
+            Console.WriteLine("Tack för miggit!");
             Console.ReadLine();
             menuLoop = false;
             break;
